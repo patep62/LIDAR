@@ -1,0 +1,14 @@
+.\objects\mainfile.o: mainfile.c
+.\objects\mainfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mainfile.o: tm4c1294ncpdt.h
+.\objects\mainfile.o: vl53l1x_api.h
+.\objects\mainfile.o: vl53l1_platform.h
+.\objects\mainfile.o: vl53l1_types.h
+.\objects\mainfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\mainfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mainfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mainfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mainfile.o: PLL.h
+.\objects\mainfile.o: SysTick.h
+.\objects\mainfile.o: uart.h
+.\objects\mainfile.o: onboardLEDs.h
